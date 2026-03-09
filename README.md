@@ -1,3 +1,3 @@
 # Tauri + React + Typescript
 
-npm run dev tauri即可
+npm run tauri dev即可
